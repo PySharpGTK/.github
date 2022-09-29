@@ -8,10 +8,10 @@ PySharpGTK - Because I hate whoever decided that WinForms are needed in this cou
   </div>
  
 ### Purpose
-This organization contains the repositories for PySharpGTK to function.  
+This organization contains the repositories needed for PySharpGTK to function.  
 
 ### How to help out
-If you are part of the Inholland Univesity, please contact the year head/programming teachers and tell them about this project and how it was created because of the WinForms hypocrisy. In the end the students are either forced to use this (based!!), use a virtual machine (slow!?), or buy a new laptop (pricey!?).
+If you are part of the Inholland University, please contact the year head/programming teachers and tell them about this project and how it was created because of the WinForms hypocrisy. In the end the students are either forced to use this (based!!), use a virtual machine (slow!?), or buy a new laptop (pricey!?).
 
 OR
 
